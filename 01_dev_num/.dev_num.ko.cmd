@@ -1,0 +1,1 @@
+cmd_/home/duc/workspace/Let_Code_Linux_Driver/01_dev_num/dev_num.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000 -z noexecstack   --build-id  -T ./scripts/module-common.lds -o /home/duc/workspace/Let_Code_Linux_Driver/01_dev_num/dev_num.ko /home/duc/workspace/Let_Code_Linux_Driver/01_dev_num/dev_num.o /home/duc/workspace/Let_Code_Linux_Driver/01_dev_num/dev_num.mod.o;  true

@@ -1,0 +1,2 @@
+/home/duc/workspace/Let_Code_Linux_Driver/01_dev_num/dev_num.o
+
